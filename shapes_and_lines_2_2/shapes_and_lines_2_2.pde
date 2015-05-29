@@ -1,14 +1,9 @@
-// shapes_and_lines2_2.pde
-// © 2014 Alejandro García
-
-/**
- * shapes_and_lines2_2
- */
-//////////////////////////////////////////////////////////////////////////////////////////////////////////
-// shapes_and_lines2_2
-//This program generates an image based on moving lines
-//////////////////////////////////////////////////////////////////////////////////////////////////////////
-
+/*
+shapes_and_lines_2_2
+ by Alejandro García Salas
+ 
+a procedural web, variation of shapes_and_lines_2
+*/
 float[] x;      // position
 float[] y;
 float[] xInc;   // change per frame
