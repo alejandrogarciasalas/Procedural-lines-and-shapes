@@ -1,7 +1,7 @@
 # Procedural-lines-and-shapes
 a set of procedural webs
 
-_description:_ is a collection of drawing machines. The digital patterns are based on looping, repetition, pseudo-randomness, nose functions and the interaction of different object-oriented programming entities. Each drawing manifests the code which by it was generated.
+__description:__ is a collection of drawing machines. The digital patterns are based on looping, repetition, pseudo-randomness, nose functions and the interaction of different object-oriented programming entities. Each drawing manifests the code which by it was generated.
 
 ##screenshots
 ###shapes and lines 1
